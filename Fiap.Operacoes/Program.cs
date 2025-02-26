@@ -50,7 +50,7 @@ namespace Fiap.Operacoes
                 Console.WriteLine($"Algum negativo {nenhumNegativo}");
 
 
-                Console.WriteLine("\nDigite qualquer coisa para sair");
+                Console.WriteLine("\nDigite qualquer coisa para sair!");
                 
             }
             catch (Exception ex){ 
